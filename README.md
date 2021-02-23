@@ -46,9 +46,9 @@ $ git clone https://github.com/leolivm/wiser && cd wiser
 **Follow the steps below**
 
 ```bash
-# Install the dependencies
+# Install the dependencies and json-server to mock the API
 $ yarn
-$ npm install -g json-server # To mock the API
+$ npm install -g json-server 
 
 # Be sure the run the API
 $ json-server db.json -m ./node_modules/json-server-auth -p 3333 -w
