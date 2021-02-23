@@ -15,6 +15,8 @@
 
 ## 👨🏻‍💻 About the project
 
+- Wiser mobile application developed for Login Challenge.
+
 ## 🚀 Technologies
 
 Technologies that I used to develop this mobile client
